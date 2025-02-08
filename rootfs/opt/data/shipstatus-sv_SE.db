@@ -16,7 +16,7 @@
 # If not, see <https://www.gnu.org/licenses/>.
 #---------------------------------------------------------------------------------------------
 
-SHIPSTATUS[0]="#framförs_med_motorkraft"
+SHIPSTATUS[0]="#framförs_med_motor"
 SHIPSTATUS[1]="#ligger_för_ankar"
 SHIPSTATUS[2]="#ej_bemannad"
 SHIPSTATUS[3]="#begränsad_manövrerbarhet"
